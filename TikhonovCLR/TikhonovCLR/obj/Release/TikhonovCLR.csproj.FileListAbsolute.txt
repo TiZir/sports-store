@@ -1,0 +1,6 @@
+C:\Users\Pedruchio\source\repos\TikhonovCLR\TikhonovCLR\bin\Release\TikhonovCLR.dll
+C:\Users\Pedruchio\source\repos\TikhonovCLR\TikhonovCLR\bin\Release\TikhonovCLR.pdb
+C:\Users\Pedruchio\source\repos\TikhonovCLR\TikhonovCLR\obj\Release\TikhonovCLR.csprojAssemblyReference.cache
+C:\Users\Pedruchio\source\repos\TikhonovCLR\TikhonovCLR\obj\Release\TikhonovCLR.csproj.CoreCompileInputs.cache
+C:\Users\Pedruchio\source\repos\TikhonovCLR\TikhonovCLR\obj\Release\TikhonovCLR.dll
+C:\Users\Pedruchio\source\repos\TikhonovCLR\TikhonovCLR\obj\Release\TikhonovCLR.pdb
